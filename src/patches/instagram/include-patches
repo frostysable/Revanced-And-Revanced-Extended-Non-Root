@@ -1,2 +1,4 @@
-Enable developer menu
-Limit feed to followed profiles
+EnableDeveloperMenuPatch.kt
+LimitFeedToFollowedProfiles.kt
+HideAdsPatch.kt
+HideSuggestedContent.kt
